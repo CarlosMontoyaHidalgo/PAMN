@@ -1,6 +1,6 @@
 # PAMN
 
-    <h1 align= "center"><b>Informe de accesibilidad web.</b></h1>
+Informe de accesibilidad web.
 
     Principios - En el nivel más alto se sitúan los cuatro principios que
         proporcionan los fundamentos de la accesibilidad web: perceptible,
