@@ -38,4 +38,5 @@ Pautas:
         los problemas de accesibilidad que muestra de acuerdo a la
         propuesta WCAG.
 
+
 Redactar un informe que muestre los resultados de ambas evaluaciones.
